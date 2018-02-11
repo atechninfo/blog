@@ -5,7 +5,7 @@
   <Description></Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16">https://blog.atechni.com/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://blog.atechni.com/search?q={searchTerms}" />
+  <Url type="text/html" method="get" template="https://www.google.dz/search?q=site:https://blog.atechni.com {searchTerms}" />
 
   <moz:SearchForm>https://blog.atechni.com/search</moz:SearchForm>
 </OpenSearchDescription>
